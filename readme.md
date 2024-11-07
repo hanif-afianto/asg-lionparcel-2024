@@ -12,14 +12,14 @@ This repository contains automated tests and a coding solution for the Quality A
 - **Objective**: Automate API tests for:
   - **GET Single User** endpoint
   - **POST Create User** endpoint
-- **Tools**: Robot Framework with Python using Gherkin style syntax.
+- **Tools**: Robot Framework with Python using Gherkin style.
 - **Instructions**:
   - Refer to the [Reqres API documentation](https://reqres.in/) for endpoint details.
   - Write and organize your test cases under the `assessment-1/` directory.
 
 ## Assignment 2: Web Automation for Shopping Cart Checkout
 - **Objective**: Automate the user journey of the shopping cart checkout process.
-- **Tools**: Robot Framework with Python using Gherkin style syntax.
+- **Tools**: Robot Framework with Python using Gherkin style.
 - **Instructions**:
   - Go to [Sauce Demo](https://www.saucedemo.com) and automate the shopping cart checkout flow.
   - Save your test cases in the `assessment-2/` directory.
